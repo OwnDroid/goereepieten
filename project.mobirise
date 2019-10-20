@@ -637,7 +637,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Creatieve",
@@ -689,33 +689,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Sympathieke",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/background7.jpg",
-                "thumb": "@THEME_PATH@/components/_images/background7.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Bewegende",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/background8.jpg",
-                "thumb": "@THEME_PATH@/components/_images/background8.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               }
             ]
           },
