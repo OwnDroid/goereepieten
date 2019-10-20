@@ -62,7 +62,7 @@
       "opacity": "99",
       "text": "Deze Site kan gebruik maken van (Speculaas) Coockies"
     },
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112794154-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-112794154-2');\n</script>\n",
+    "google-analytics": "<meta name=\"google-site-verification\" content=\"nikFybDZ_lvsL9lWW4NZoMepnG2KINxIP3_E30D53cM\" />\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112794154-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-112794154-2');\n</script>\n",
     "screenshot": "screenshot.png"
   },
   "pages": {
