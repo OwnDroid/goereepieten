@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Goeree Pieten",
-    "currentPage": "Review.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 23,
+    "uniqCompNum": 25,
     "versionPublish": "4.11.2",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
@@ -764,7 +764,7 @@
       "settings": {
         "meta_descr": "We zijn Gekke en Malle Piet?",
         "title": "Over Ons",
-        "order": 3,
+        "order": 4,
         "meta_image": "@PROJECT_PATH@/assets/images/whatsapp%20image%202019-09-04%20at%2018.26.40%20(2)-1200x1600.jpeg"
       },
       "components": [
@@ -1266,7 +1266,7 @@
       "settings": {
         "meta_descr": "Maak hier een afpsraak met onze Agenda Piet",
         "title": "Maak een afspraak",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1812,7 +1812,7 @@
       "settings": {
         "meta_descr": "Laat hier een berichtje achter...",
         "title": "Reviews",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
